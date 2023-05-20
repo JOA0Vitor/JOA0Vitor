@@ -1,4 +1,4 @@
-### Olá! Eu sou o João Vitor, sou desenvolvedor Front-end 🤞
+### Olá! Eu sou João Vitor, sou desenvolvedor Front-end 🤞
 
 <br/> 
 
