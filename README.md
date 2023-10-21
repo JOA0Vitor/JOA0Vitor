@@ -1,8 +1,8 @@
-### Olá! Eu sou João Vitor, sou desenvolvedor Front-end  ⁇ 
+### Olá! Eu sou João Vitor, sou desenvolvedor Front-end 🤞
 
 <br/> 
 
-[Estatísticas de João vitor GitHub!](https://github-readme-stats.vercel.app/api?nome do usuário = JOA0Vitor & show_icons = true & theme = drácula)
+![João vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=JOA0Vitor&show_icons=true&theme=dracula)
 
 ## Contato 
 
@@ -18,7 +18,7 @@
 ## Tecnologias que eu uso no meu dia
 
 
-<div estilo="exibição: inline_block"><br/>
+<div style="display: inline_block"><br/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -27,4 +27,4 @@
     <img align="center" alt="VUE" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 
 
-</div >
+</div>
