@@ -1,18 +1,18 @@
-### Olá! Eu sou João Vitor, sou desenvolvedor Front-end  ⁇ 
+### Olá! Eu sou João Vitor, sou desenvolvedor Front-end ?? 
 
 <br/> 
 
-[!Estatísticas de João vitor GitHub](https://github-readme-stats.vercel.app/api?nome de usuário = JOA0Vitor & show_icons = true & theme = drácula)
+[Estatísticas de João vitor GitHub!](https://github-readme-stats.vercel.app/api?nome do usuário = JOA0Vitor & show_icons = true & theme = drácula)
 
 ## Contato 
 
 <br/> 
 
 <div>
-    <a alt="Gmail" href="mailto: vitorsilvasantana5@gamil.com" alvo="_em branco"><img src="https://img.shields.io/badge/Gmail-D14836?style = for-the-badge&logo = gmail&logoColor = branco " alvo=_em branco></a>
-    <a alt="linkedin" href="https://www.linkedin.com/in/jo%C3%A3o-vitor-246a91201/" alvo="_em branco"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style = for-the-badge&logo = linkedin&logoColor = branco " alvo=_em branco></a>
+    <a alt="Gmail" href="mailto: vitorsilvasantana5@gamil.com" alvo="_em branco"><img src="https://img.shields.io/badge/Gmail-D14836?style = for-the-badge&logo = gmail&logoColor = branco " alvo=_em Branco></a>
+    <a alt="linkedin" href="https://www.linkedin.com/in/jo%C3%A3o-vitor-246a91201/" alvo="_em branco"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style = for-the-badge&logo = linkedin&logoColor = branco " alvo=_em Branco></a>
 
-[[!Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style = for-the-badge & logo = whatsapp & logoColor = white)](https://web.whatsapp.com/)<br/> 
+[[Whatsapp!](https://img.shields.io/badge/WhatsApp-25D366?style = for-the-badge & logo = whatsapp & logoColor = white)] (https://web.whatsapp.com/)<br/> 
 </div>
 
 ## Tecnologias que eu uso no meu dia
