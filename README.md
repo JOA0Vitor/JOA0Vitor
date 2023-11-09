@@ -27,7 +27,7 @@
     <img align="center" alt="VUE" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
     <img align="center" alt="Flutter" src="
             <i class="devicon-flutter-plain colored"></i>
-          ">
+      
 
 
 </div>
