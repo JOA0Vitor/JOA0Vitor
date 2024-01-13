@@ -1,4 +1,4 @@
-### Olá! Eu sou João Vitor, sou desenvolvedor Flutter
+### Olá! Meu nome é João Vitor, sou desenvolvedor Flutter
 
 <br/> 
 
